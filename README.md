@@ -6,6 +6,10 @@
 1) Data Preprocessing, Chi-Square Analysis, & Logistic Regression
 2) 
 
+Summary Model Performance (F1-Score):
+- Logistic Regression: 86.32 %
+- <b>Decision Trees: 92.72 %</b>
+
 <b> Part II - Data Visualization using Microsoft Power BI </b>
 
 
