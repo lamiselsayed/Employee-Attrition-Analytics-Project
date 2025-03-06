@@ -8,7 +8,8 @@
 
 Summary Model Performance (F1-Score):
 - Logistic Regression: 86.32 %
-- <b>Decision Trees: 92.72 %</b>
+- Decision Trees: 92.72 %
+- <b>XGBoost: 95.62%</b>
 
 <b> Part II - Data Visualization using Microsoft Power BI </b>
 
