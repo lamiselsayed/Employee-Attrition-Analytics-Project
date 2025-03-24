@@ -4,12 +4,12 @@
 
 <b> Part I - Statistical Insights & Predictions </b>
 1) Data Preprocessing, Chi-Square Analysis, & Logistic Regression
-2) 
+2) Decision Tree, XGBoost
 
 Summary Model Performance (F1-Score):
 - Logistic Regression: 86.32 %
 - Decision Trees: 92.72 %
-- <b>XGBoost: 95.62%</b>
+- <b>XGBoost: 96.28 %</b>
 
 <b> Part II - Data Visualization using Microsoft Power BI </b>
 
